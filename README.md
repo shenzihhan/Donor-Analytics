@@ -51,11 +51,16 @@ The synthetic dataset simulates realistic donor behavior based on statistical di
 
 In the full report and internal version, we developed:
 - RFM segment distribution plots
+  ![RFM Segment Distribution](charts/rfm_segment_distribution.png)
 - Donation trend lines over years
 - Predicted vs. actual donation scatterplots
+  ![Predicted vs Actual](charts/predicted_vs_actual.png)
 - City-level high-value donor heatmaps
 - Segment-specific strategy tables
-
+  ![Predicted vs Actual](charts/Segment_strategy_mapping.png)
+- Feature Importance
+  ![Feature Importance](charts/feature_importance.png)
+> ⚠️ All data used in these visualizations is synthetic to reflect realistic but non-identifiable donor behavior. No real donor information is included.
 ---
 
 ## Data Privacy
