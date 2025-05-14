@@ -55,7 +55,6 @@ In the full report and internal version, we developed:
 - Donation trend lines over years
 - Predicted vs. actual donation scatterplots
   ![Predicted vs Actual](charts/predicted_vs_actual.png)
-- City-level high-value donor heatmaps
 - Segment-specific strategy tables
   ![Predicted vs Actual](charts/Segment_strategy_mapping.png)
 - Feature Importance
