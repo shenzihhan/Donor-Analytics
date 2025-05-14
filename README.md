@@ -72,6 +72,11 @@ This chart compares predicted vs. actual donation values on synthetic data.
 ![Feature Importance](charts/feature_importance.png)
 
 ---
+
+- City-Level High-Value Donor Heatmap
+- Cumulative Donation Curve
+- Attention-Based Engagement Funnel
+
 > ⚠️ All data used in these visualizations is synthetic to reflect realistic but non-identifiable donor behavior. No real donor information is included.
 ---
 
