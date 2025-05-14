@@ -54,7 +54,7 @@ In the full report and internal version, we developed:
   ![RFM Segment Distribution](charts/rfm_segment_distribution.png)
 - Donation trend lines over years
 - Predicted vs. actual donation scatterplots
-![Predicted vs Actual](charts/predicted_vs_actual.png)
+<img src="charts/predicted_vs_actual.png" align="left" width="500">
 - Segment-specific strategy tables
   ![Predicted vs Actual](charts/Segment_strategy_mapping.png)
 - Feature Importance
