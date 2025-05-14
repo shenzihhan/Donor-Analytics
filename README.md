@@ -47,34 +47,48 @@ The synthetic dataset simulates realistic donor behavior based on statistical di
 
 ---
 
-## Sample Visuals 
+## Sample Visuals  (Some Not Shown Here)
 
 In the full report and internal version, we developed:
 
-- Donation trend lines over years
-- Predicted vs Actual (Random Forest)
-- Segment-specific strategy tables
-- Feature Importance  
-- City-Level High-Value Donor Heatmap
-- Cumulative Donation Curve
-- Attention-Based Engagement Funnel
+- **Donation Trend Lines Over Years** *(Not shown here)*  
+  Showed changes in donor behavior and total donations across time.
+
+- **Predicted vs Actual (Random Forest)**  
+  Compared model predictions with actual donation values using synthetic data.
+
+- **Segment-Specific Strategy Tables**  
+  Mapped donor personas to action plans for targeted outreach.
+
+- **Feature Importance Plot**  
+  Ranked variables based on their contribution to the model.
+
+- **City-Level High-Value Donor Heatmap** *(Not shown here)*  
+  Identified local fundraising opportunities based on donor geography.
+
+- **Cumulative Donation Curve** *(Not shown here)*  
+  Demonstrated how the top 20% of donors contribute most of the funds.
+
+- **Attention-Based Engagement Funnel** *(Not shown here)*  
+  Proposed a conceptual model of donor progression over time.
+
 
 ---
 
 ### Predicted vs Actual (Random Forest)
-
-This chart compares predicted vs. actual donation values on synthetic data.
-
+This chart compares predicted vs. actual donation values using a Random Forest Regressor trained on synthetic data.
 ![Predicted vs Actual](charts/predicted_vs_actual.png)
 
 ---
 
-### Segment-specific strategy tables  
+### Segment-specific strategy tables
+This visual aligns behavioral segments with marketing actions to help optimize donor engagement.
 ![Segment Strategy](charts/Segment_strategy_mapping.png)
 
 ---
 
 ### Feature Importance  
+The most influential features in predicting annual donation are shown below.
 ![Feature Importance](charts/feature_importance.png)
 
 ---
