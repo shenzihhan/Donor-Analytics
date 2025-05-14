@@ -67,6 +67,6 @@ This GitHub version uses **only synthetic data** to demonstrate reproducible ana
 ## Learn More
 
 For full project context and business impact:
-- 📄 View our [Final Project Report](https://drive.google.com/file/d/1zdTs1lRkyyW3sJlHoZ2hBY06vqJjcY3O/view?usp=sharing)
-- 🌐 Visit the [Grand Canyon Council](https://www.grandcanyonbsa.org/)
-- 💬 Contact [Zih-Han Shen](https://www.linkedin.com/in/zih-han-shen-552983286/) for project details
+- View our [Final Project Report](https://drive.google.com/file/d/1zdTs1lRkyyW3sJlHoZ2hBY06vqJjcY3O/view?usp=sharing)
+- Visit the [Grand Canyon Council](https://www.grandcanyonbsa.org/)
+- Contact [Zih-Han Shen](https://www.linkedin.com/in/zih-han-shen-552983286/) for project details
