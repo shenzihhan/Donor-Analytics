@@ -47,11 +47,17 @@ The synthetic dataset simulates realistic donor behavior based on statistical di
 
 ---
 
-## Sample Visuals (Not Included Here)
+## Sample Visuals 
 
 In the full report and internal version, we developed:
 
-- Donation trend lines over years   
+- Donation trend lines over years
+- Predicted vs Actual (Random Forest)
+- Segment-specific strategy tables
+- Feature Importance  
+- City-Level High-Value Donor Heatmap
+- Cumulative Donation Curve
+- Attention-Based Engagement Funnel
 
 ---
 
@@ -73,9 +79,6 @@ This chart compares predicted vs. actual donation values on synthetic data.
 
 ---
 
-- City-Level High-Value Donor Heatmap
-- Cumulative Donation Curve
-- Attention-Based Engagement Funnel
 
 > ⚠️ All data used in these visualizations is synthetic to reflect realistic but non-identifiable donor behavior. No real donor information is included.
 ---
